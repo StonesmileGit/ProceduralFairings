@@ -5,6 +5,8 @@
 
 **Procedural Fairings** is a mod for **Kerbal Space Program (KSP)** that creates fairings that can automatically reshape for any attached payload.
 
+**[KSP forum thread][PF:forum-link]**
+
 **[Original KSP forum thread][PF:original-forum-link]**
 
 ## Installation
@@ -51,8 +53,9 @@ You should have received a copy of the license along with this work. If not, vis
 [PF:contributor-edog-link]:     https://github.com/e-dog
 [PF:contributor-rsparkyc-link]: https://github.com/rsparkyc
 [PF:contributor-pap1723-link]:  https://github.com/KSP-RO
+[PF:forum-link]:                http://forum.kerbalspaceprogram.com/index.php?showtopic=184187
 [PF:original-forum-link]:       http://forum.kerbalspaceprogram.com/index.php?showtopic=36371
 [PF:shield-license]:            https://img.shields.io/badge/License-CC--BY%204.0-green.svg
-[PF:shield-version]:            https://img.shields.io/badge/KSP%20Version-1.6.1.0-green.svg
+[PF:shield-version]:            https://img.shields.io/badge/KSP%20Version-1.12.x-green.svg
 [PF:sstu-link]:					https://forum.kerbalspaceprogram.com/index.php?/topic/117090-wip17x-sstulabs-low-part-count-solutions-orbiters-landers-lifters-dev-thread-11-18-18/
 [PF:rsb-link]:					https://forum.kerbalspaceprogram.com/index.php?/topic/130776-12-14-real-scale-boosters-016-2018-03-12/
