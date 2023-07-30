@@ -70,5 +70,5 @@ jobs:
       - name: Upload artifacts
         uses: actions/upload-artifact@v1
         with:
-          name: RealFuels
+          name: ProceduralFairings
           path: ${{ steps.assemble-release.outputs.release-dir }}
